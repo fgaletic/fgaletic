@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- 💻 Currently working as **Principal Engineer at [Allioli - Web App Studio](https://allio.li/)** and **Co-Founder & CTO at a Stealth Startup**  
+- 💻 Currently working as **Principal Engineer at [Allioli - Web App Studio](https://allio.li/)** and **Full Stack Lead and Product Owner a Stealth Startup**  
 - 🚀 Previously a **Full Stack Developer** at Nordic Waves, working on MERN-based projects like the [Greenhouse Calculator app](https://greenhousecalculator.com/)
 - 🚀 Also a **Full Stack Development Trainee** at **Planet Peanut**, contributing to **gameplay and user experience improvements** for their mobile app 
 - ✅ Developed a **MERN Stack Real Estate SPA** as a final project of my **Master in Full Stack Development** at Nuclio Digital School, Barcelona  

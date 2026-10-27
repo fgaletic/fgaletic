@@ -2,9 +2,18 @@
 
 **Full Stack Engineer & Tech Lead** building AI-enabled products from concept to production. Based in Barcelona.
 
-## What I do
+## Currently: Full Stack Engineer / Tech Lead at Simbioza AI (since 06/2025)
 
-- **Full Stack Engineer / Tech Lead & Product Owner at [Simbioza AI](https://simbioza.ai)**: leading delivery of a patient-facing, AI-enabled health platform across NestJS, React and native iOS (SwiftUI), including LLM chat, document-analysis pipelines and EHR integrations.
+I lead end-to-end delivery of a patient-facing, AI-enabled health and wellness platform, from feature scoping to production release across backend, web and native iOS, and I act as Product Owner.
+
+- **AI features:** conversational AI chat with streaming (SSE), medical document upload and analysis pipelines running as background jobs, AI enrichment of EHR chart notes, and multi-provider LLM configuration
+- **Backend:** NestJS, PostgreSQL (TypeORM migrations), OAuth 2.0 and 2FA, field-level encryption with key rotation, job queues, EHR/ETL integration (Athelas), Stripe subscriptions, AWS (S3, SES)
+- **Web:** React (Vite, TypeScript), Tailwind CSS, Radix UI, React Query, i18n
+- **iOS:** native SwiftUI app built from scratch to TestFlight, with OAuth2, Socket.IO chat, Keychain security, Dynamic Type and 5-locale i18n, shipped through a fastlane and XcodeGen CI pipeline
+- **Engineering process:** OpenAPI-driven typed code generation across web, iOS and backend, dev-to-stage-to-production release flow and CI enforcement across three repositories, plus Scrum cadence and stakeholder liaison
+
+## Also
+
 - **Principal Engineer at Allioli Web App Studio**: a boutique studio building web apps, MVPs, RESTful APIs and HubSpot integrations.
 - **Founder of [5 Spoons](https://5spoons.com)**: a React Native wellbeing tracker based on Spoon Theory, live today.
 
